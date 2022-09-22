@@ -1,1 +1,20 @@
-{"id":"1","title":"Coca-cola","price":"550","thumbail":"emthy"}
+[
+   {
+      "title": "Coca-cola",
+      "price": "550",
+      "thumbail": "emthy",
+      "id": 1
+   },
+   {
+      "title": "Coca-cola",
+      "price": "550",
+      "thumbail": "emthy",
+      "id": 2
+   },
+   {
+      "title": "Coca-cola",
+      "price": "550",
+      "thumbail": "emthy",
+      "id": 3
+   }
+]
